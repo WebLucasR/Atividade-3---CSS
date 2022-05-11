@@ -1,0 +1,15 @@
+h1{
+    font-family: montserrat;
+}
+.date{
+    font-family: roboto;
+    color: #008080;
+}
+.text{
+    font-family: "open sans";
+}
+.post-content{
+    background-color: #fffafa;
+    margin: 0% auto 0% auto;
+    width: 70%;
+}
